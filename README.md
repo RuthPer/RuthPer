@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **RuthPer/RuthPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a real-time Qubit Detection system using YOLO (You Only Look Once) and OpenCV to process live video input from a webcam. My goal is to accurately detect and analyze qubit states for potential quantum computing simulations and visualizations.
+- 🌱 🌱 I’m currently learning how to train and fine-tune YOLOv8 models for object detection, especially in the context of qubit recognition and real-time computer vision, as well as improving my full-stack web development skills by working with APIs, databases, and frontend design.
+- 👯 I'm looking to collaborate on research projects that intersect technology and social impact, especially in games, climate science, and equity-driven tech initiatives.
+- 🤔 I’m looking for help with real-time object detection optimization and learning best practices for deploying AI models with limited datasets.
+- 💬 Ask me about modding games with Lua to challenge colonialist narratives, YOLO-based qubit detection and quantum computing applications, creative CS projects in college, or my internship experiences at Fermilab and Brookhaven National Laboratory.
+- 📫 How to reach me: rp104@wellesley.edu
+- 😄 Pronouns: She/ Her
+- ⚡ Fun fact: I once redesigned an entire in-game economy to make virtual villagers more self-sufficient and challenge colonialist systems—using code!
