@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about modding games with Lua to challenge colonialist narratives, YOLO-based qubit detection and quantum computing applications, creative CS projects in college, or my internship experiences at Fermilab and Brookhaven National Laboratory.
 - 📫 How to reach me: rp104@wellesley.edu
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I once redesigned an entire in-game economy to make virtual villagers more self-sufficient and challenge colonialist systems—using code!
+- ⚡ Fun fact: I once redesigned an entire in-game economy to make virtual villagers more self-sufficient and challenge colonialist systems, using code!
